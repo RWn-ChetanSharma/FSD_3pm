@@ -19,5 +19,6 @@ int main(){
 		if(arr[i]%2==0){
 		printf("%d\n", arr[i]);
 		}
+		
 	}
 }
