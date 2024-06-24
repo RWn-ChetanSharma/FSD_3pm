@@ -16,7 +16,7 @@ int main(){
 //		printf("%d\n", arr[4]);
 
 	for(i=0;i<=8;i++){
-		if(arr[i]%2==0){
+		if(arr[i]%2){
 		printf("%d\n", arr[i]);
 		}
 		
