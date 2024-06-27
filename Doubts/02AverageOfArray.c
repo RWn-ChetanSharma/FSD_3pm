@@ -31,10 +31,11 @@ void main(){
             sum=sum+a[i][j];
         }
     }
-    avg=sum/(row*col);
+
+	 
+//    avg=sum/(row*col);
     printf("Sum of array is %d\n", sum);
-    printf("\nAverage of all the elements of the matrix = %.2f",avg);
-	
+//    printf("\nAverage of all the elements of the matrix = %.2f",avg);
 	
 	
 //	printf("%d", row);
