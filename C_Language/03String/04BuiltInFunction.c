@@ -8,6 +8,6 @@ main(){
 //	char n[max_size] = "Hello";
 	char n[] = "Hello";
 	printf("%s\n", strupr(n));
-printf("%s\n", strlwr(n));
-printf("%s\n", strrev(n));	
+	printf("%s\n", strlwr(n));
+	printf("%s\n", strrev(n));	
 }
