@@ -8,7 +8,7 @@
 int main(){
 	int i;
 	int arr[] = {11,22,33,44,55,66,77,88,99};
-			// 	   0, 1, 2, 3, 4
+			// 	  0, 1, 2, 3, 4, 5, 6, 7, 8
 //	    printf("%d\n", arr[0]);
 //		printf("%d\n", arr[1]);
 //		printf("%d\n", arr[2]);
@@ -16,7 +16,7 @@ int main(){
 //		printf("%d\n", arr[4]);
 
 	for(i=0;i<=8;i++){
-		if(arr[i]%2){
+		if(arr[i]%2==0){
 		printf("%d\n", arr[i]);
 		}
 		

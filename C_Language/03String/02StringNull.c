@@ -23,6 +23,7 @@ main(){
 //	printf("%c\n", a[5]);
 
 //	for(i=0; i <= 10; i++){
+//	for(i=0; a[i] != NULL; i++){
 	for(i=0; a[i] != '\0'; i++){
 		printf("%c\n", a[i]);
 	}

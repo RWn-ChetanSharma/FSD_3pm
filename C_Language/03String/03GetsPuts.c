@@ -10,7 +10,7 @@ main(){
 //	scanf("%s", &n);
 	gets(n);
 	puts(n);
-		puts(n);
+	puts(n);
 //	printf("%s", n);
 	
 	 
