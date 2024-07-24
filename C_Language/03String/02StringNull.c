@@ -13,7 +13,7 @@ main(){
 //	printf("%c\n", a[4]);
 //	printf("%c\n", a[5]);
 
-	char a[] = "HelloDost";
+	char a[] = "Hello Dost";
 //				01234   => 5
 //	printf("%c\n", a[0]);
 //	printf("%c\n", a[1]);

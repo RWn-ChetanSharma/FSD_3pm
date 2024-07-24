@@ -12,8 +12,8 @@ main(){
 //	printf("%c\n", n);
 //	printf("%d\n", n);
 	
-	for(i = 'a'; i <= 'z'; i++){
-//	for(i = 97; i<= 122; i++){
+//	for(i = 'a'; i <= 'z'; i++){
+	for(i = 97; i<= 122; i++){
 		printf("%c => %d\n", i, i);
 	}
 }

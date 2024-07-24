@@ -6,7 +6,7 @@ main(){
 	
 	int a = 10;
 	
-	int *p;     // Pointer 
+	int *p ;     // Pointer 
 	p = &a;     
 	
 	

@@ -8,9 +8,11 @@ main(){
 
 	printf("Enter any word: ");
 //	scanf("%s", &n);
+//	scanf("%[^\n]", &n);
 	gets(n);
 	puts(n);
 	puts(n);
+	
 //	printf("%s", n);
 	
 	 
