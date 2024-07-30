@@ -11,7 +11,7 @@
 // c++ => cout << "Value of a is " << a;
 
 //     => cout << a;
-//     => cout << a << "" << b << "--" << c;    // 3 5--8
+//     => cout << a << "+" << b << "=" << c;    // 3 + 5 = 8
 //     => cout << a+b;
 
 // c => printf("Sum of %d and %d is %d", a,b,c);
@@ -30,4 +30,4 @@
 
 // c => #include <stdio.h>
 
-// c++ => #include <iostream.h>
+// c++ => #include <iostream>
