@@ -32,8 +32,8 @@ class Points
 int main(){
 	Points o1(4,5);
 	Points o2(8,6);
-//	Points o3(o1);    // call copy constructor
-	Points o3 = o1;   // call copy constructor
+	Points o3(o1);    // call copy constructor
+//	Points o3 = o1;   // call copy constructor
 	
 	return 0;
 }
