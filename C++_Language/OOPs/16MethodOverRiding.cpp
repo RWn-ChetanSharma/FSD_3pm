@@ -31,7 +31,7 @@ int main(){
 	Dubai o1;
 	
 	o1.wear();
-	o1.India::wear();
+//	o1.India::wear();
 	
 	return 0;
 }

@@ -6,9 +6,9 @@ using namespace std;
 class P 
 {
 	public:
-		int tempC;
-		void getA(int n){
-			this->tempC = n;
+		int tempC = 20;
+		void getA(){
+			
 			cout << "Temperature in celsius is : " << tempC << endl;
 		}
 };
@@ -40,7 +40,7 @@ int main(){
 	
 	R o1;
 	
-	o1.getA(20);
+	o1.getA();
 	o1.getB();
 	o1.getC();
 	
