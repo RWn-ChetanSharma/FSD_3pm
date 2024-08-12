@@ -22,6 +22,11 @@ class B : public A
 
 
 int main(){
+	
+//	B b1;    // object
+//	b1.show();
+	
+	
 	A *p1;   // pointer object
 	A a1;
 	B b1;
