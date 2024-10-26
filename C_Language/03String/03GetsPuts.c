@@ -11,7 +11,7 @@ main(){
 //	scanf("%[^\n]", &n);
 	gets(n);
 	puts(n);
-	puts(n);
+//	puts(n);
 	
 //	printf("%s", n);
 	

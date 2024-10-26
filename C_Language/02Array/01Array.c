@@ -16,9 +16,10 @@ int main(){
 //		printf("%d\n", arr[4]);
 
 	for(i=0;i<=8;i++){
-		if(arr[i]%2==0){
-		printf("%d\n", arr[i]);
-		}
+//		if(arr[i]%2==0){
+//		printf("%d\n", arr[i]);
+//		}
+	printf("%d\n", arr[i]);
 		
 	}
 }
